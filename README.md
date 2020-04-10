@@ -18,8 +18,10 @@ ShadowsocksD会跟随Shadowsocks更新代码。
 ```
 git clone https://github.com/Sorata/SSD.git
 cd SSD/
+git add .
+git commit -m commit
 git submodule update --init --recursive
-Android Studio正常编译即可。
+Android Studio编译
 ```
 
 ## Environment - 环境
