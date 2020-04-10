@@ -13,6 +13,15 @@ ShadowsocksD会跟随Shadowsocks更新代码。
 
 [ShadowsocksD项目共享Wiki](https://github.com/TheCGDF/SSD-Windows/wiki)
 
+## 编译方法
+
+```
+git clone https://github.com/Sorata/SSD.git
+cd SSD/
+git submodule update --init --recursive
+Android Studio正常编译即可。
+```
+
 ## Environment - 环境
 
 Android 5.0+
