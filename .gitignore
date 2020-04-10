@@ -12,3 +12,4 @@ release/
 # release apks
 *.apk
 core/src/main/jni
+core/.cxx
